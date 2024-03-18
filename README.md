@@ -6,7 +6,7 @@ Web: [Inove](http://inove.com.ar)
 # Proyectos de Python Analytics [Python]
 En el notebook "proyectos" se encuentra detallado el objetivo que se debe alcanzar en este proyecto
 
-[Notebook de proyectos](https://github.com/InoveAlumnos/https://github.com/InoveAlumnos/proyecto_food_analytics/blob/main/proyectos.ipynb)
+[Notebook de proyectos](https://github.com/InoveAlumnos/proyecto_food_analytics/blob/main/proyectos.ipynb)
 
 
 Cualquier duda o problema con la descarga del dataset nos consulta.
